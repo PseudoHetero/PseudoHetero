@@ -18,6 +18,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/oFvFtrhrmIFFe/giphy.gif?cid=790b7611f80941fe8aea7176cf33b73c539ff15c35dbb39b&rid=giphy.gif&ct=g">
 </div>
 
-  ![Snake animation](https://github.com/pseudohetero/peseudohetero/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/pseudohetero/pseudohetero/blob/output/github-contribution-grid-snake.svg)
  
 </div>
