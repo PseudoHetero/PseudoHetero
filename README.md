@@ -1,7 +1,7 @@
 ### print('Olá Mundo')
 
 - 🔭 Estudando para ser um desenvolvedor Back-end.
-- 🌱 Estudando Sql.
+- 🌱 Estudando Desenvolvimento Web.
 - 📫Email para contato (andreluiz0222@gmail.com).
 - 😄 Pronomes: Ele/Dele. 
 - ⚡ Fun fact: Sei todas as musicas do filme High school musical de cor e salteado.
