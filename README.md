@@ -1,6 +1,6 @@
 ### print('Olá Mundo')
 
-- 🔭 Estudando para ser um desenvolvedor Back-end.
+- 🔭 Estudando para ser um desenvolvedor Fullstack.
 - 🌱 Estudando Desenvolvimento Web.
 - 📫Email para contato (andreluiz0222@gmail.com).
 - 😄 Pronomes: Ele/Dele. 
