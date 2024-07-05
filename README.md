@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
   
-😄 He/Hi
+😄 He/Him
 
 📫 Email: andreluiz0222@gmail.com
 
